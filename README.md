@@ -21,14 +21,8 @@ HTML
 
 CSS
 
-JavaScript
 
 
 🎯 Objective
 
 The main objective of this project is to design and develop a user-friendly restaurant website that simplifies food browsing and ordering while demonstrating core web development skills.
-
-
-Learning full-stack development
-
-Portfolio showcase on GitHub
